@@ -20,7 +20,7 @@
     "ejs": "^3.1.3",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.25.3",
     "mongoose": "^5.9.13",
     "morgan": "^1.10.0",
